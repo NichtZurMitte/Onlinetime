@@ -1,0 +1,7 @@
+name: Onlinetime
+author: NichtZurMitte&Marcel
+version: 1.2
+main: de.stan.Onlintime.main.Main
+commands:
+  ot:
+    description: /ot player -> gibt deine Aktuelle onlinezeit aus!
