@@ -1,5 +1,5 @@
 name: Onlinetime
-author: NichtZurMitte&Marcel
+author: NichtZurMitte #GhostWritingByDevGod
 version: 1.2
 main: de.stan.Onlintime.main.Main
 commands:
