@@ -15,7 +15,7 @@ import java.nio.channels.ReadableByteChannel;
 
 public class UpdateHelper {
 	
-	String ip = "http://87.141.58.76/public";
+	String ip = *your server ip here*;
 
 	Main plugin;
 	public UpdateHelper(String Name, double Version, Main plugin) {
